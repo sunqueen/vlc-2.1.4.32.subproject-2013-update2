@@ -26,6 +26,8 @@
 # include "config.h"
 #endif
 
+#include "compat.h"			// sunqueen add
+
 #include <fcntl.h>
 #include <sys/stat.h>
 #ifdef HAVE_UNISTD_H
